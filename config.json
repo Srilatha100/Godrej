@@ -43,9 +43,12 @@
         },
         "localNotifications": {
             "enabled": false
+        },
+        "appCenterOTA": {
+            "enabled": false
         }
     },
-    "appVersion": "1.0.5",
-    "buildNumber": 5,
+    "appVersion": "1.6.0",
+    "buildNumber": 6,
     "runtimeUrl": "https://godrejoffline-sandbox.mxapps.io/"
 }
